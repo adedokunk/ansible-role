@@ -4,10 +4,10 @@ dependencies:
 
 galaxy_info:
   role_name: php-mysql
-  author: geerlingguy
+  author: kazeem
   description: PHP MySQL support for Linux.
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "DSG"
+  license: "MTL"
   min_ansible_version: 2.4
   platforms:
     - name: EL
